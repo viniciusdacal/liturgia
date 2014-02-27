@@ -1,0 +1,4 @@
+module.exports = {
+    //Creates a local project command called ghdeploy
+    ghdeploy: require('volo-ghdeploy')('built', 'ghdeploy')
+}

@@ -1,0 +1,23 @@
+.date-header {
+  background-color: #333;
+  padding: 10px;
+  color: #ffffff;
+  font-size: 15pt;
+  text-align: right;
+  margin: 0 -10px 20px; }
+  .date-header .month {
+    float: left;
+    font-size: 42pt;
+    overflow: hidden;
+    line-height: 100%;
+    margin: -17px 10px;
+    font-weight: bold; }
+
+#corpo_leituras {
+  padding: 2%;
+  width: auto;
+  text-align: left; }
+
+#titulo {
+  width: 100%;
+  letter-spacing: normal; }
